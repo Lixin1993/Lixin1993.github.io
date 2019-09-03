@@ -1,8 +1,8 @@
 ---
 layout: content
-title: About
+title: 关于
 description: 打码改变世界
-keywords: xiangming, 向明
+keywords: lixin, 李昕
 comments: true
 menu: 关于
 permalink: /about/
