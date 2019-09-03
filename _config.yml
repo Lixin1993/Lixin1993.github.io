@@ -4,10 +4,10 @@
 baseurl:
 url: https://xiangming.vip
 date_format: "ordinal"
-title: 此生依然
+title: 李昕
 subtitle: "工作总结、学习记录"
-description: "向明的个人博客"
-keywords: xiangming, csyr, xiangming25
+description: "李昕的个人博客"
+keywords: lixin
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
@@ -15,12 +15,12 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: xiangming
+author: lixin
 organization: 
 organization_url: 
-github_username: xiangming25
+github_username: LiXin1993
 location: chengdu, China
-email: xiangming25@163.com
+email: 461620786@qq.com
 
 # ---------------- #
 #    Navigation    #
@@ -77,7 +77,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: xiangming25/xiangming25.github.io
+repository: Lixin1993/Lixin1993.github.io
 
 # ---------------- #
 #      Comments    #
@@ -86,10 +86,10 @@ repository: xiangming25/xiangming25.github.io
 comments_provider: gitalk
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: xiangming25
+    owner: Lixin1993
     repo: blog-comments
-    clientID: c1095fc8afa022843ec7
-    clientSecret: 29d7f404f4b8694dd17cfb7bde264031267c2c2b
+    clientID: e530509d4a09f996797c
+    clientSecret: c947fe06f004396c37ad1b9b364e5fc54d21fbf5
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
